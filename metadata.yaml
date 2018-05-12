@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '39258'
     url: http://www.gutenberg.org/2009/agents/39258
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38078#SiamThe-Land-of-the-White-Elephant-as-it-Was-and-Is
 gutenberg_issued: '2011-11-25'
 gutenberg_type: Text
 identifiers:
